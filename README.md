@@ -16,4 +16,6 @@ Efficiency among minor league outfielders at different using player and ball tra
   - Created a Route Optimization Model That Determines the Best Route to Any Flyball (ie Finds the Route that Maximizes Catch Probability)
   - Modeled the Projected Path the Average Fielder at Each Level Would Take to a Given Flyball.
 
+I created a Shiny App where you try the models for yourself here: https://team60.shinyapps.io/SMT_Data_Challenge_2024/
+Note: The app will crash after you run the Projeted Path Model more than 1-2 times. This has to do with the limited amount of storage each app is allowed to have and is out of my control. I go into more detail about what's causing this error in my paper if you're interested.
 </h4>
