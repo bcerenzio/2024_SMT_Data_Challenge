@@ -1,3 +1,6 @@
+library(tidyverse)
+library(ggthemes)
+
 all_pitches <- final_dataset %>% filter(!is.na(pitch_type)) %>% filter(pitch_type != "Eephus")
 
 all_pitches <- all_pitches %>% 
